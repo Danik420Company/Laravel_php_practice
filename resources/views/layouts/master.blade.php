@@ -7,6 +7,8 @@
 <body>
     @yield('style')
     @yield('content')
+    @yield('content_2')
     @yield('script')
+
 </body>
 </html>
